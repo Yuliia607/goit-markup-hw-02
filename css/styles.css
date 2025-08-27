@@ -82,7 +82,7 @@ a {
 }
 .intro-button:hover,
 .intro-button:focus {
-  color: #404bbf;
+  background-color:  #404bbf;
 }
 
 .about-team-heading {
@@ -99,6 +99,13 @@ a {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
+}
+.about-team-item-name{
+ font-weight: 500;
+ font-size: 20px;
+ line-height: 1.2;
+ letter-spacing: 0.02em;
+ color: #2e2f42;
 }
 .team-members {
   font-weight: 700;
